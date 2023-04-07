@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    'pages' # new
+    'agile-basin-27153',
 ]
 
 MIDDLEWARE = [
